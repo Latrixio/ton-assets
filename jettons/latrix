@@ -1,0 +1,10 @@
+name: "Latrix"
+description: "LAX is the utility token powering Latrix, a decentralized AI ecosystem for precision medicine. Use $LAX to govern protocols, access compute resources, monetize genomic data, and earn royalties from AI-driven therapies."
+symbol: "LAX"
+decimals: 9
+image: "https://latrix.io/wp-content/uploads/2025/03/lax-token-logo-256x256-5.png"
+address: "EQBj0yXXUBPLllzw1_jNTt_fjBdW61vlMsiEtVC-vPBEKxtG"
+web: "https://latrix.io"
+social:
+  - "https://x.com/latrixofficial"
+  - "https://t.me/latrixio"
